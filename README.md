@@ -5,6 +5,7 @@ Final project
 
 
 2. Market Cap Definition
+
 | Classification | Market value range        |
 |----------------|---------------------------|
 | Mega-cap       | >$200 billion             |
