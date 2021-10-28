@@ -5,8 +5,9 @@ Final project
 
 
 2. Market Cap Definition
-Market    value range \\
-Mega-cap  >$200 billion \\
-Large-cap	$10 billion–$200 billion \\
-Mid-cap	  $2 billion–$10 billion \\
-Small-cap	$300 million–$2 billion
+| Classification | Market value range        |
+|----------------|---------------------------|
+| Mega-cap       | >$200 billion             |
+| Large-cap      | $10 billion–$200 billion  |
+| Mid-cap        | $2 billion–$10 billion    |
+| Small-cap      | $300 million–$2 billion   |
